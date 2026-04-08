@@ -1,7 +1,7 @@
 # Loan Approval Prediction using Machine Learning
 
 ## Overview
-This project predicts whether a loan application will be approved based on applicant financial data.
+This project predicts whether a loan application will be approved based on applicant financial data in banking systems.
 
 ## Dataset Features
 - Age
